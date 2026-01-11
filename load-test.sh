@@ -12,6 +12,7 @@ done
 echo "✅ Services are ready!"
 
 # Generate test data
+## Testing
 echo "📊 Generating test log events..."
 
 # Simple load test using curl
